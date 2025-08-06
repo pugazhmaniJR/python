@@ -98,12 +98,6 @@ for x in fruit:
   print(x[0])
   
 
-one= lambda x,y : x*y
-print(one(4,8))
-
-
-
-
 
 
 
